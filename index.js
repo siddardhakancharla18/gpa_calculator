@@ -1,3 +1,10 @@
+function intro(){
+    window.location.href = "index.html";
+}
+function introres(){
+    window.location.href = "https://rvrjcce.ac.in/examcell/results/regnoresultsR.php";
+}
+
 const score = {
     "A+": 3 * 10,  
     "A": 3 * 9,    
